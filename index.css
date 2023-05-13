@@ -1,0 +1,4 @@
+.row1{
+    display: grid;
+    grid-template-columns: 60% 10% 10% 10% 10% ;
+}
